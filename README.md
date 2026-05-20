@@ -1,42 +1,35 @@
 <div align="center">
 
-<pre>
-╔════════════════════════════════╗
-║     💻  Basic-Arduino-projects  💻     ║
-╚════════════════════════════════╝
-</pre>
+# Basic Arduino Projects
 
-## Project Repository
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc)
 
-
+*Foundational Arduino projects — the hands-on starting point for embedded systems and electronics.*
 
 </div>
 
 ---
 
-## About
+## Projects included
 
-A Python project repository. See the source code for details.
-
----
-
-## Features
-
-- See source code for details
-
----
-
-## Tech Stack
-
-_See source_
+- LED blink and PWM dimming
+- Button input with debouncing
+- Servo motor control
+- Potentiometer → ADC → LED brightness mapping
+- 7-segment display counter
+- Serial communication basics
+- Buzzer tone generation
+- RGB LED colour mixing
 
 ---
 
-## Author
+## Tech stack
 
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`C++` · `Arduino IDE`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
